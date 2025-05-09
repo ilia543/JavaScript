@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+
+#myBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background-color: lightgreen;
+    border: 2px solid green;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(46, 234, 46);
+    font-size: 140px;
+}

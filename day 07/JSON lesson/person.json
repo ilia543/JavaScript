@@ -1,0 +1,11 @@
+{
+    "name": "ilia",
+    "age": 16,
+    "surname": "dzindzibadze",
+    "hobbies": ["programming", "learning", "training"],
+    "issigma": true,
+    "addres":{
+        "country": "Georgia",
+        "city": "Tbilisi" 
+    }
+}

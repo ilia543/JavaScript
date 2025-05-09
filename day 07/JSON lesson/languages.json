@@ -1,0 +1,17 @@
+[
+    {
+        "name": "html",
+        "useful": true,
+        "for": "webistes"
+    },
+    {
+        "name": "CSS",
+        "useful": true,
+        "for": "webistes"
+    },
+    {
+        "name": "JavaScript",
+        "useful": true,
+        "for": ["webites", "applications", "games", "AI", "cyber security"]
+    }
+]

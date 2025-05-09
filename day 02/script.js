@@ -1,0 +1,122 @@
+// let fruits = ["apple", "orange", "banana", "coconut"];
+
+// for (let i = fruits.length - 1; i >= 0; i--) {
+//     console.log(fruits[i]);
+// }
+
+// for (let fruit of fruits){
+//     console.log(fruit)
+// }
+
+// fruits.sort()
+// fruits.reverse()
+
+
+// 2d arrs //////////////////////////////////////////////////////////////////////////////////////////////////////
+// 2d arrs //////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+// const matrix = [[1,2,3], 
+//                 [4,5,6], 
+//                 [7,8,9]]
+
+// matrix[0][1] = "x";
+// matrix[1][2] = "x";
+// matrix[2][0] = "x";
+
+
+// for (let i of matrix){
+//     console.log(i);
+// }
+
+
+// spread operator //////////////////////////////////////////////////////////////////////////////////////////////////////
+// spread operator //////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+// let numbers = [1,2,3,4,5,6,7,8,9]
+
+// let maximum = Math.max(...numbers)
+// let minimum = Math.min(...numbers)
+
+
+// console.log(maximum, minimum)    // 9, 1
+
+// let name = "ilia dzindzibadze"
+
+// console.log(...name) // i l i a   d z i n d z i b a d z e
+
+
+
+// forEach() method //////////////////////////////////////////////////////////////////////////////////////////////////////
+// forEach() method //////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+// numbers = [1,2,3,4,5];
+
+// numbers.forEach(forlog);
+
+// function forlog(element){
+//     console.log(element +=1);
+// }
+
+
+// let fruits = ["banana", "apple", "orange"];
+
+// fruits.forEach(upperfuc);
+
+// function upperfuc(element){
+//     console.log(element.toUpperCase())
+// }
+
+
+
+
+// .map() //////////////////////////////////////////////////////////////////////////////////////////////////////
+// .map() //////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+// const numbers = [1, 2, 3, 4, 5];
+// const squares = numbers.map(square);
+// const cubes = numbers.map(cube);
+
+// console.log(numbers);
+
+// function square(element){
+//     return Math.pow(element, 2);
+// }
+
+// function cube(element){
+//     return Math.pow(element, 3);
+// }
+
+
+// const students = ["ilia", "nika", "gio", "luka"];
+
+// const upstudents = students.map(toupper)
+// console.log(upstudents)
+
+// function toupper(element){
+//     return element.toUpperCase()
+// }
+
+
+
+
+
+// .filter() //////////////////////////////////////////////////////////////////////////////////////////////////////
+// .filter() //////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+// let numbers = [1,2,3,4,5,6,7,8,9];
+
+// function even(element) {
+//     return element % 2 === 0;
+// }
+
+// let evennums = numbers.filter(even);
+
+// console.log(evennums);
+
+
